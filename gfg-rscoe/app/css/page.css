@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+    /* background: linear-gradient(135deg, rgba(0, 0, 0, 0.6), rgba(83, 140, 140, 0.6)) */
+}
+
+.main-container{
+    height: 100%;
+    width: 100%;
+}
