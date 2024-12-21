@@ -1,6 +1,6 @@
 import HeroSection from './components/hero-section';
-import './css/hero.css';
-import './css/page.css';
+import '@/public/css/hero.css';
+import '@/public/css/page.css';
 
 
 export default function Home() {
